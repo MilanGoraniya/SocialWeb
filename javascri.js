@@ -1,4 +1,4 @@
-﻿const API_KEY = "AIzaSyA6huq86cFuFU2dsLhXZiS0HvEO4jMcsgI"; // Replace with your actual Gemini API key
+﻿const API_KEY = "YOUR_API"; // Replace with your actual Gemini API key
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 
 async function sendMessage() {
