@@ -67,11 +67,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="first.aspx" />
     <Content Include="Home.aspx" />
+    <Content Include="javascri.js" />
     <Content Include="Login.aspx" />
     <Content Include="myprofile.aspx" />
     <Content Include="Profile.aspx" />
     <Content Include="Register.aspx" />
+    <Content Include="second.css" />
     <Content Include="styles.css" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />

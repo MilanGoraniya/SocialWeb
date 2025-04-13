@@ -7,25 +7,6 @@
       "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|d:\\c#\\social media platform\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|d:\\c#\\social media platform\\myprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:myprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|d:\\c#\\social media platform\\myprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:myprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\fs1qqpc0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,12 +15,46 @@
       "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\gezhcq3a..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\first.aspx||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:first.aspx||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\myprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:myprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\javascri.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:javascri.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\second.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:second.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\myprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:myprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\fs1qqpc0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -56,12 +71,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|D:\\c#\\Social media platform\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AF60AD9-71BA-4E4B-903C-9BB36923CF1A}|Social media platform.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\fs1qqpc0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\fs1qqpc0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,16 +88,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "styles.css",
-              "DocumentMoniker": "D:\\c#\\Social media platform\\styles.css",
-              "RelativeDocumentMoniker": "styles.css",
-              "ToolTip": "D:\\c#\\Social media platform\\styles.css",
-              "RelativeToolTip": "styles.css",
-              "ViewState": "AgIAAIMAAABAmZmZmZktwJkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-26T12:46:01.818Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "gezhcq3a..sql",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\gezhcq3a..sql",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\gezhcq3a..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-30T17:31:41.879Z"
             },
             {
               "$type": "Document",
@@ -105,20 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.aspx.cs",
-              "DocumentMoniker": "D:\\c#\\Social media platform\\Register.aspx.cs",
-              "RelativeDocumentMoniker": "Register.aspx.cs",
-              "ToolTip": "D:\\c#\\Social media platform\\Register.aspx.cs",
-              "RelativeToolTip": "Register.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:28:54.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "D:\\c#\\Social media platform\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Login.aspx.cs",
@@ -126,12 +118,11 @@
               "RelativeToolTip": "Login.aspx.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAowBoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:28:10.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T13:28:10.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Profile.aspx.cs",
               "DocumentMoniker": "D:\\c#\\Social media platform\\Profile.aspx.cs",
               "RelativeDocumentMoniker": "Profile.aspx.cs",
@@ -139,35 +130,20 @@
               "RelativeToolTip": "Profile.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:30:49.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T13:30:49.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SQLQuery1.sql ",
+              "DocumentIndex": 12,
+              "Title": "fs1qqpc0..sql",
               "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\fs1qqpc0..sql",
-              "ToolTip": "SQLQuery1.sql *",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\fs1qqpc0..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-26T11:22:29.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T11:22:29.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "myprofile.aspx.cs",
-              "DocumentMoniker": "D:\\c#\\Social media platform\\myprofile.aspx.cs",
-              "RelativeDocumentMoniker": "myprofile.aspx.cs",
-              "ToolTip": "D:\\c#\\Social media platform\\myprofile.aspx.cs",
-              "RelativeToolTip": "myprofile.aspx.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAqwJAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T11:36:58.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "myprofile.aspx",
               "DocumentMoniker": "D:\\c#\\Social media platform\\myprofile.aspx",
               "RelativeDocumentMoniker": "myprofile.aspx",
@@ -175,12 +151,47 @@
               "RelativeToolTip": "myprofile.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-26T11:35:46.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T11:35:46.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\c#\\Social media platform\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "D:\\c#\\Social media platform\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:29:50.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\c#\\Social media platform\\styles.css",
+              "RelativeDocumentMoniker": "styles.css",
+              "ToolTip": "D:\\c#\\Social media platform\\styles.css",
+              "RelativeToolTip": "styles.css",
+              "ViewState": "AgIAAMUAAACAy8zMzMwcwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-26T12:46:01.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "D:\\c#\\Social media platform\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Register.aspx.cs",
+              "ToolTip": "D:\\c#\\Social media platform\\Register.aspx.cs",
+              "RelativeToolTip": "Register.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:28:54.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\c#\\Social media platform\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -193,20 +204,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.aspx.cs",
-              "DocumentMoniker": "D:\\c#\\Social media platform\\Home.aspx.cs",
-              "RelativeDocumentMoniker": "Home.aspx.cs",
-              "ToolTip": "D:\\c#\\Social media platform\\Home.aspx.cs",
-              "RelativeToolTip": "Home.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:29:50.524Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "first.aspx",
+              "DocumentMoniker": "D:\\c#\\Social media platform\\first.aspx",
+              "RelativeDocumentMoniker": "first.aspx",
+              "ToolTip": "D:\\c#\\Social media platform\\first.aspx",
+              "RelativeToolTip": "first.aspx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T06:00:28.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "second.css",
+              "DocumentMoniker": "D:\\c#\\Social media platform\\second.css",
+              "RelativeDocumentMoniker": "second.css",
+              "ToolTip": "D:\\c#\\Social media platform\\second.css",
+              "RelativeToolTip": "second.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-29T06:01:02.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "javascri.js",
+              "DocumentMoniker": "D:\\c#\\Social media platform\\javascri.js",
+              "RelativeDocumentMoniker": "javascri.js",
+              "ToolTip": "D:\\c#\\Social media platform\\javascri.js",
+              "RelativeToolTip": "javascri.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-29T06:01:21.103Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "myprofile.aspx.cs",
+              "DocumentMoniker": "D:\\c#\\Social media platform\\myprofile.aspx.cs",
+              "RelativeDocumentMoniker": "myprofile.aspx.cs",
+              "ToolTip": "D:\\c#\\Social media platform\\myprofile.aspx.cs",
+              "RelativeToolTip": "myprofile.aspx.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAqwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:36:58.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "D:\\c#\\Social media platform\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebForm1.aspx",
@@ -218,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Register.aspx",
               "DocumentMoniker": "D:\\c#\\Social media platform\\Register.aspx",
               "RelativeDocumentMoniker": "Register.aspx",
@@ -230,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Login.aspx",
               "DocumentMoniker": "D:\\c#\\Social media platform\\Login.aspx",
               "RelativeDocumentMoniker": "Login.aspx",
@@ -242,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "D:\\c#\\Social media platform\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "WebForm1.aspx.cs",

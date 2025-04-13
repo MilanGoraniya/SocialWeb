@@ -131,23 +131,95 @@ body {
         text-align: center;
     }
 }
-
-/* Wrapper to enforce the 4:5 aspect ratio */
+/* ✅ Instagram-Style Image Container */
 .image-container {
-    width: 100%;
-    max-width: 1080px; /* Max width for posts */
-    position: relative;
-    overflow: hidden;
-    padding-top: 125%; /* 4:5 aspect ratio (1350/1080 * 100) */
+    width: 100%; /* Responsive */
+    max-width: 500px; /* Adjust this for the desired size */
+    height: 500px; /* Fixed height for square posts */
+    overflow: hidden; /* Ensures no overflow */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000; /* Black background like Instagram */
+    border-radius: 10px;
+    margin: auto; /* Centers the post */
 }
 
-    /* Post images inside the wrapper */
+    /* ✅ Fix Image Scaling */
     .image-container img {
-        position: absolute;
-        top: 0;
-        left: 0;
         width: 100%;
         height: 100%;
-        object-fit: cover; /* Ensures the image fits and crops excess */
+        object-fit: cover; /* Ensures full image fills the box without stretching */
         border-radius: 10px;
     }
+
+
+    .comment-section {
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.comment-section p {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.comment-section .form-control {
+    width: 100%;
+    font-size: 14px;
+}
+
+.comment-section .btn {
+    font-size: 14px;
+
+    margin-top: 5px;
+}
+
+/* ✅ Light Mode (Default) */
+body {
+    background-color: #f0f2f5;
+    color: #000;
+    transition: background 0.3s, color 0.3s;
+}
+
+    /* ✅ Dark Mode */
+    body.dark-mode {
+        background-color: #18191A;
+        color: #E4E6EB;
+    }
+
+/* ✅ Navbar Dark Mode */
+.navbar {
+    background: white;
+    transition: background 0.3s;
+}
+
+.dark-mode .navbar {
+    background: #242526;
+}
+
+/* ✅ Post Box */
+.post-box {
+    background: white;
+    color: black;
+    transition: background 0.3s, color 0.3s;
+}
+
+.dark-mode .post-box {
+    background: #3A3B3C;
+    color: #E4E6EB;
+}
+
+/* ✅ Buttons */
+.btn-custom {
+    background-color: #1877f2;
+    color: white;
+}
+
+.dark-mode .btn-custom {
+    background-color: #4A90E2;
+}
+
+
